@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "231789893150",
+    "firebase_url": "https://laundrytelkom-c32c8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "laundrytelkom-c32c8",
+    "storage_bucket": "laundrytelkom-c32c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231789893150:android:08cdbcfc26ea096cb6400f",
+        "android_client_info": {
+          "package_name": "org.d3ifcool.laundrytelkom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231789893150-mpndl7mqbsqigde3pm8iu4loj6q8t4fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.d3ifcool.laundrytelkom",
+            "certificate_hash": "b5d563d61008355df460b038b95d2682ffea3783"
+          }
+        },
+        {
+          "client_id": "231789893150-c859o74h8301grrdpgf3509mr1jemjbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF-TV5Qq6JDV38Fuulri9GY-FAGNexOfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231789893150-c859o74h8301grrdpgf3509mr1jemjbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
